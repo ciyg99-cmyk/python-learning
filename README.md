@@ -1,2 +1,16 @@
-# python-learning
-我的 Python 零基礎學習紀錄
+# Python 學習紀錄
+
+這是我的 Python 零基礎學習專案。
+
+## 學習進度
+
+- 第1課：print() ✅
+- 第2課：變數 ✅
+- 第3課：資料型態 ✅
+- 第4課：運算子 ✅
+- 第5課：input() 🟡
+- 第6課：if
+- 第7課：while
+- 第8課：for
+- 第9課：def 函式
+- 第10課：List
